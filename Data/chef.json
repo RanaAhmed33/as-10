@@ -241,8 +241,6 @@
             }
         ],
         "likes": 34,
-        "picture": "https://i.ibb.co/L9c2Ymk/chef-2.png",
-        "description": "Chef Emily is a young and ambitious chef who is constantly pushing the boundaries of traditional cooking. She loves to experiment with new techniques and ingredients, and is always on the lookout for innovative ways to showcase the flavors of her dishes."
     },
     {
         "id": 6,
@@ -289,5 +287,8 @@
                 "img": "https://images.unsplash.com/photo-1624233245934-1ee385a190c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
             }
         ],
+        "likes": 98,
+        "picture": "https://i.ibb.co/TTMwjfG/chef-3.png",
+        "description": "Chef Frank is a classically trained chef with a passion for creating comforting, hearty dishes that are full of flavor. He draws inspiration from his Italian heritage and is known for his handmade pastas and slow-cooked stews."
     }
 ]
