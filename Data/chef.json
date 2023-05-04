@@ -270,6 +270,9 @@
                     "1 cup shredded mozzarella cheese",
                     "1/4 cup chopped fresh basil"
                 ],
+                "cookingMethod": "Preheat oven to 450°F. Spread tomato sauce over pizza crust. Top with mozzarella cheese and chopped basil. Bake for 10-12 minutes or until crust is golden brown.",
+                "ratings": 4.7,
+                "img": "https://images.unsplash.com/photo-1571407921708-4202261ea9e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=499&q=80"
             },
             {
                 "recipeName": "Tiramisu",

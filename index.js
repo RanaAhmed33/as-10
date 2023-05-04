@@ -19,6 +19,3 @@ app.get("/chef/:id", (req, res) => {
     res.send(selectedChef);
 });
 
-app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`);
-});
